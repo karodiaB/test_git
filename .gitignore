@@ -1,0 +1,8 @@
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.metadata/
+TEST_GIT/code/routines/system/*.* 
+TEST_GIT/temp/
+TEST_GIT/sqlPatterns/
+TEST_GIT/talend.project
